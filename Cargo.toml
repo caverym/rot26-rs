@@ -1,0 +1,15 @@
+[package]
+name = "rot26-rs"
+license = "MIT"
+description = "(Joke) no_std Implementation of thr ROT-26 algorithem with a C interface"
+authors = ["Avery Murray <avery.murray@caverym.xyz"]
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+crate-type = ["rlib", "staticlib", "cdylib"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+# None!
