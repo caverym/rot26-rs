@@ -4,7 +4,7 @@ license = "MIT"
 description = "(Joke) no_std Implementation of thr ROT-26 algorithem with a C interface"
 authors = ["Avery Murray <avery.murray@caverym.xyz"]
 repository = "https://github.com/caverym/rot26-rs"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
 
 [lib]
